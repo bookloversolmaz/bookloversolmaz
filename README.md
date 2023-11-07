@@ -1,8 +1,7 @@
-## Solmaz Purser
-### About me
-👋 🌺
+## Solmaz Purser 🌺
+### About me 👋
 
-I am a motivated and determined software developer who has recently graduated from Makers Academy. Prior to Makers I worked as an editor for six years across a range of subject areas where I honed my attention to detail, ability work to a deadline and manage complex projects. I decided to make the change into tech as there is always something to learn and I enjoy challenging myself.
+I am a motivated and determined software developer who has recently graduated from [Makers Academy](https://makers.tech/). Prior to Makers I worked as an editor for six years across a range of subject areas where I honed my attention to detail, ability work to a deadline and manage complex projects. I decided to make the change into tech as there is always something to learn and I enjoy challenging myself.
 
 I have experience working with the programming languages Ruby, JavaScript, Python and C. I have familiar with the fundamentals of software development including object-oriented languages, test-driven development, full stack development and GitHub. I have also completed edX’s CS50’s introduction to computer science.
 
@@ -15,6 +14,12 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 |[**Tic tac toe test**](https://github.com/bookloverbabe/tic_tac_toe_tech_test_python) | A program that runs tic tac toe (also known as noughts and crosses) in Python with testing | Python, Unittest |
 | [**Bank tech test challenge**](https://github.com/bookloverbabe/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
 |[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
+
+<section align="center">
+   <h2>⚙️ GitHub Analytics</h2>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bookloverbabe&show_icons=true&&hide=stars,issues&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bookloverbab&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</section>
 
 <details>
 <summary>Work Experience</summary>
