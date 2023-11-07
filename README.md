@@ -1,4 +1,5 @@
 ## Solmaz Purser
+👋 🌺
 
 I am a motivated and determined software developer who has recently graduated from Makers Academy. Prior to Makers I worked as an editor for six years across a range of subject areas where I honed my attention to detail, ability work to a deadline and manage complex projects. I decided to make the change into tech as there is always something to learn and I enjoy challenging myself.
 
@@ -14,8 +15,8 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 | [**Bank tech test challenge**](https://github.com/bookloverbabe/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
 |[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
 
-
-## Work Experience
+<details>
+<summary>## Work Experience</summary>
 
 **Project editor** PeopleCert (formerly AXELOS) (June 2022 to December 2022 )
 
@@ -38,8 +39,11 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 **Editor (various positions)** LexisNexis (March 2016 to December 2018)
 
 **Operations assistant during placement year** i-docserve (August 2013 to August 2014)
+</details>
 
-## Skills
+<details>
+<summary>## Skills</summary>
+
 #### Communication
 Developed during my years as an editor where communication skills were paramount. Ability to understand and communicate complex technical information, with the result that I was able to edit two 30 000 word books and write articles on IT service management and project management. This translated into an ability to write clear documentation for the final project at Makers. Also demonstrated team working skills when I ran editorial meetings with editorial board to discuss and plan upcoming issues of a monthly trade magazine.
 
@@ -51,8 +55,10 @@ Decided to learn software development by starting with CS50’s introduction to 
 
 #### Delivery
 At Axelos simultaneously managed several products and published at least four pieces of content a month exceeding targets. Effectively implemented version control during each projects development phase to avoid delays and ensure that the correct version of the final product was delivered. During Makers I was able to use a Kanban board to chart the teams progress and GitHub to ensure that the correct version of the program was in the main branch.
+</details>
 
-## Education
+<details>
+<summary>## Education and certificates</summary>
 
 #### Software development bootcamp, Makers Academy (February to June 2023)
 - A strong focus on test-driven development, which was further honed during one-to-one code reviews.
@@ -72,3 +78,5 @@ At Axelos simultaneously managed several products and published at least four pi
 - PRINCE2 Foundation (November 2019)
 - PRINCE2 Agile (November 2020)
 - ITIL 4 Foundation (April 2019)
+
+</details>
