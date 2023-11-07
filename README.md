@@ -17,8 +17,7 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 
 <section align="center">
    <h2>⚙️ GitHub Analytics</h2>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bookloverbabe&show_icons=true&&hide=stars,issues&count_private=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bookloverbab&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+   [![Solmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookloverbabe)](https://github.com/bookloverbabe/github-readme-stats)
 </section>
 
 <details>
