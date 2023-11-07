@@ -1,4 +1,5 @@
 ## Solmaz Purser
+### About me
 👋 🌺
 
 I am a motivated and determined software developer who has recently graduated from Makers Academy. Prior to Makers I worked as an editor for six years across a range of subject areas where I honed my attention to detail, ability work to a deadline and manage complex projects. I decided to make the change into tech as there is always something to learn and I enjoy challenging myself.
