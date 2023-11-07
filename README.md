@@ -16,7 +16,7 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 |[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
 
 <details>
-<summary>## Work Experience</summary>
+<summary>Work Experience</summary>
 
 **Project editor** PeopleCert (formerly AXELOS) (June 2022 to December 2022 )
 
@@ -42,7 +42,7 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 </details>
 
 <details>
-<summary>## Skills</summary>
+<summary>Skills</summary>
 
 #### Communication
 Developed during my years as an editor where communication skills were paramount. Ability to understand and communicate complex technical information, with the result that I was able to edit two 30 000 word books and write articles on IT service management and project management. This translated into an ability to write clear documentation for the final project at Makers. Also demonstrated team working skills when I ran editorial meetings with editorial board to discuss and plan upcoming issues of a monthly trade magazine.
@@ -58,7 +58,7 @@ At Axelos simultaneously managed several products and published at least four pi
 </details>
 
 <details>
-<summary>## Education and certificates</summary>
+<summary>Education and certificates</summary>
 
 #### Software development bootcamp, Makers Academy (February to June 2023)
 - A strong focus on test-driven development, which was further honed during one-to-one code reviews.
