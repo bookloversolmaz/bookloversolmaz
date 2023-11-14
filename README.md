@@ -15,11 +15,6 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 | [**Bank tech test challenge**](https://github.com/bookloverbabe/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
 |[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
 
-<section align="center">
-   <h2>⚙️ GitHub Analytics</h2>
-   [![Solmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bookloverbabe)](https://github.com/bookloverbabe/github-readme-stats)
-</section>
-
 <details>
 <summary>Work Experience</summary>
 
