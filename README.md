@@ -14,7 +14,7 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 |[**Tic tac toe test**](https://github.com/bookloverbabe/tic_tac_toe_tech_test_python) | A program that runs tic tac toe (also known as noughts and crosses) in Python with testing | Python, Unittest |
 | [**Bank tech test challenge**](https://github.com/bookloverbabe/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
 |[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
-|[**django-website-react**](https://github.com/bookloverbabe/django-website-react) | In progress: a full stack application with testing. Currently contains a to do list that utilises a PostgreSQL database. | Python, Django, JavaScript, React, Unittest, Jest, HTML, CSS|
+|[**django-website-react**](https://github.com/bookloverbabe/django-website-react) | In progress: a full stack application with testing. Currently contains a to do list that utilises a PostgreSQL database. | Python, Django, JavaScript, React, Unittest, Jest, HTML, CSS, PostgreSQL|
 
 <details>
 <summary>Work Experience</summary>
