@@ -5,6 +5,8 @@ I am a motivated and determined software developer who has recently graduated fr
 
 I have experience working with the programming languages Ruby, JavaScript, Python and C. I have familiar with the fundamentals of software development including object-oriented languages, test-driven development, full stack development and GitHub. I have also completed edX’s CS50’s introduction to computer science.
 
+![Codewars](https://github.r2v.ch/codewars?user=bookloverbabe)
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
