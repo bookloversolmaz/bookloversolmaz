@@ -5,8 +5,6 @@ I am a motivated and determined software developer who has recently graduated fr
 
 I have experience working with the programming languages Ruby, JavaScript, Python and C. I have familiar with the fundamentals of software development including object-oriented languages, test-driven development, full stack development and GitHub. I have also completed edX’s CS50’s introduction to computer science.
 
-![Codewars](https://github.r2v.ch/codewars?user=bookloverbabe)
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -62,6 +60,7 @@ At Axelos simultaneously managed several products and published at least four pi
 
 <details>
 <summary>Education and certificates</summary>
+![Codewars](https://github.r2v.ch/codewars?user=bookloverbabe)
 
 #### Software development bootcamp, Makers Academy (February to June 2023)
 - A strong focus on test-driven development, which was further honed during one-to-one code reviews.
