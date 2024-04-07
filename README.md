@@ -16,6 +16,8 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 |[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
 |[**django-website-react**](https://github.com/bookloverbabe/django-website-react) | In progress: a full stack application with testing. Currently contains a to do list that utilises a PostgreSQL database. | Python, Django, JavaScript, React, Unittest, Jest, HTML, CSS, PostgreSQL|
 
+![Codewars](https://github.r2v.ch/codewars?user=bookloverbabe)
+
 <details>
 <summary>Work Experience</summary>
 
@@ -60,7 +62,6 @@ At Axelos simultaneously managed several products and published at least four pi
 
 <details>
 <summary>Education and certificates</summary>
-![Codewars](https://github.r2v.ch/codewars?user=bookloverbabe)
 
 #### Software development bootcamp, Makers Academy (February to June 2023)
 - A strong focus on test-driven development, which was further honed during one-to-one code reviews.
