@@ -14,7 +14,7 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 |[**Tic tac toe test**](https://github.com/bookloversolmaz/tic_tac_toe_tech_test_python) | A program that runs tic tac toe (also known as noughts and crosses) in Python with testing | Python, Unittest |
 | [**Bank tech test challenge**](https://github.com/bookloversolmaz/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
 |[**Words to images**](https://github.com/bookloversolmaz/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image, based on the total sum of values assigned to each letter in the input. | Python, Flask, Unittest, HTML, CSS|
-|[**django-website-react**](https://github.com/bookloversolmaz/django-website-react) | In progress: a full stack application with testing. Currently contains a to do list that utilises a PostgreSQL database. | Python, Django, JavaScript, React, Unittest, Jest, HTML, CSS, PostgreSQL|
+|[**django-website-react**](https://github.com/bookloversolmaz/django-website-react) | A full stack application with testing. See website in action at solmazpurser.com | Python, Django, JavaScript, React, Unittest, Jest, HTML, CSS, PostgreSQL|
 |[**Codewars**](https://github.com/bookloversolmaz/Codewars) | Coding challenge website inspired by Japanese martial arts. Increases in difficulty. Set to private as Codewars does not want answers to challenges freely available online | Python, Ruby, JavaScript|
 
 ![Codewars](https://github.r2v.ch/codewars?user=bookloversolmaz)
