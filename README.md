@@ -19,4 +19,29 @@ C# | .NET | Kafka | React | Python | JavaScript | TypeScript | PostgreSQL | Mong
 
 Distributed systems · Backend engineering · Fintech · Developer experience
 
-</details>
+## 🚀 Selected Projects
+
+### **Foodshare**
+Full-stack platform connecting food businesses with food banks to reduce waste  
+**Tech:** MongoDB, Express, React, Node.js, Jest, Cypress  
+• Built a scalable MERN application with authentication and REST APIs  
+• Collaborated in an Agile team using GitHub workflows and code reviews  
+• Focused on reliability and test coverage across frontend and backend  
+
+---
+
+### **Words to Images**
+Full-stack application generating images from user input via API integration  
+**Tech:** Python, Flask, REST APIs, HTML, CSS  
+• Designed backend services to process input and integrate external APIs  
+• Implemented testing and structured application logic  
+• Focused on API design and data handling  
+
+---
+
+### **Full-Stack Personal Website**
+Production-style web application with CRUD functionality  
+**Tech:** Django, React, PostgreSQL  
+• Built RESTful APIs for frontend-backend communication  
+• Deployed application with cloud hosting and CI/CD workflows  
+• Applied clean architecture and modular design principles  
