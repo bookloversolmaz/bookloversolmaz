@@ -7,9 +7,16 @@ I’ve delivered features across multiple engineering teams, focusing on backend
 
 I come from a background in editorial and content strategy, which brings a strong focus on clarity, attention to detail, and user-centred thinking to my engineering work.
 
-### 🚀 Currently
-• Improving reliability in distributed systems  
-• Learning more about event-driven architecture and system design  
+## 💼 Current Work
+
+Software Engineer in fintech, working on:
+• C# / .NET microservices  
+• Event-driven systems using Kafka  
+• Payment integrations and disbursement flows  
+• Observability and system reliability improvements  
+
+Focus areas:
+Distributed systems · Backend engineering · System design
 
 ### 🛠 Tech
 
