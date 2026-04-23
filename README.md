@@ -10,10 +10,10 @@ I come from a background in editorial and content strategy, which brings a stron
 ## 💼 Current Work
 
 Software Engineer in fintech, working on:
-• C# / .NET microservices  
-• Event-driven systems using Kafka  
-• Payment integrations and disbursement flows  
-• Observability and system reliability improvements  
+• C# / .NET microservices
+• Event-driven systems using Kafka
+• Payment integrations and disbursement flows
+• Observability and system reliability improvements
 
 Focus areas:
 Distributed systems · Backend engineering · System design
